@@ -1,0 +1,4 @@
+# One domain or URL per line. Lines starting with # are ignored.
+example.com
+https://another-site.com
+mail.example.com
